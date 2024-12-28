@@ -20,5 +20,5 @@ To write a python program to find the inverse of a matrix
 ## Output:
 ![result](<Screenshot 2024-10-29 191155.png>)
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
+Thus the inverse of given matrix is successfully solved using python program.
 
